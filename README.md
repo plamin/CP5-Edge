@@ -6,6 +6,8 @@ Clara Barboza Costa</br>
 Lucas Santana Silva</br>
 Pedro Henrique Lamin Rodrigues
 
+# Link do WOKWI
+https://wokwi.com/projects/445374750553023489
 
 # VM criada
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7fb68767-a31b-4cd7-b897-f78a6e92de36" />
