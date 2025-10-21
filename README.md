@@ -21,6 +21,8 @@ https://wokwi.com/projects/445374750553023489
 
 # Postman funcionando
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/94a733f1-8c2e-444b-8a10-c7d950762156" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d507993d-1db9-48f9-96fc-e16334ab0994" />
+
 
 # Portas funcionando
 
